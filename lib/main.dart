@@ -35,9 +35,6 @@ class Home extends StatelessWidget {
   );
 }
 
-
-
-
 void main() {
   runApp(
     new MyApp(),
